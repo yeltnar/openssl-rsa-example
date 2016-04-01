@@ -1,0 +1,1 @@
+rm -v pub.pkcs8 test.sign test.txt.decrypted test.txt.encrypted
